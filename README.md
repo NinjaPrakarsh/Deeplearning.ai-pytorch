@@ -1,3 +1,3 @@
-# Deeplearning.ai pytorch Implementations
-Andrew Ng uses tenserflow , this is pytorch implementation.
-NOTE- This is not word to word implementation , I only implement according to myself.
+# Designing different models for Signs Dataset
+Using pytorch to make different models for prediction on Signs dataset.
+NOTE- I implemented this according to myself.
